@@ -4,10 +4,9 @@
 ## The program that generates random number for you in the given range.
 
 
-![Screenshot (10)](https://user-images.githubusercontent.com/67071367/149412769-2240d7c4-0ea2-43f3-a613-44017fceb2bb.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/67071367/149416664-0179854a-edfc-4d95-9320-41a0172dcb86.png)
 
-![Screenshot (11)](https://user-images.githubusercontent.com/67071367/149412872-dba2460b-823b-4cc9-969b-32b220cc4632.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/67071367/149416658-dcc85d52-8ce0-4858-80df-6e4c277404b7.png)
 
 
 ## Made using basic HTML, CSS and JAVASCRIPT.
-## 
